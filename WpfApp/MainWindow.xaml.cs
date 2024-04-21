@@ -25,6 +25,7 @@ namespace WpfApp
             InitializeComponent();
 //khbcbshksch
 //// added some comment
+/// khvchdv
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
