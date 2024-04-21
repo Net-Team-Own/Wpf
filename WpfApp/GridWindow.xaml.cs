@@ -22,6 +22,9 @@ namespace WpfApp
         public GridWindow()
         {
             InitializeComponent();
+/// Commnet
         }
+//// comment1
+//// comment2
     }
 }
